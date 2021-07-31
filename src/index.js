@@ -16,7 +16,7 @@ import {Provider} from 'react-redux';
 import store from './Store';
 import './css/main.css';
 import InfiniteGallery from './components/gallery/InfiniteGallery';
-
+// new change
 // basename must be match pom.xml's artifactId & WebSphere deployment root path
 ReactDOM.render(<Provider store={store}>
   <Router>
