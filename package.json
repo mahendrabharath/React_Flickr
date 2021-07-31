@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@material-ui/core": "^1.1.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-jest": "^20.0.3",
     "chart.js": "^2.8.0",
     "extract-text-webpack-plugin": "^2.1.0",
